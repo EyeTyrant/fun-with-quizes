@@ -10,7 +10,6 @@ public class Quiz {
 
     ArrayList<MultiChoice> test1 = new ArrayList<>();
 
-
  MultiChoice quest1 = new MultiChoice("Color of sky?");
   test1.add(quest1);
     System.out.println(test1.get(0));
